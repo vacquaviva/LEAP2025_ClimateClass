@@ -1,3 +1,17 @@
-All the files come from 
+Files are too large to post here!
+
+However, you can download them directly from
+
 http://glass.umd.edu/KGClim/
-and you can look at different variable, historical and future periods, etc.
+
+The ones you would need to run this exercise are:
+
+ptot_1984_2013.tif
+pdm_1984_2013.tif
+pwm_1984_2013.tif
+tcm_1984_2013.tif
+twm_1984_2013.tif
+tavg_1984_2013.tif
+kc_1984_2013.tif
+
+You can also look at different variables, historical and future periods, etc.
